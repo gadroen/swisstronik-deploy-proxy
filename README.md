@@ -7,17 +7,15 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x6f5c1bEB0Ae14D1422B4B3b874ac6D3d225f9940
 ```
-
-Tutorial Video : [Youtube](https://www.youtube.com/@IzzyTSN)
 
 ## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/gadroen/swisstronik-deploy-proxy.git
 ```
 
 ```bash
@@ -92,19 +90,14 @@ npm run upgrade
 - No need push to github
 
 by :
-
-github : [Mnuralim](https://github.com/Mnuralim)
-
-twitter : @Izzycracker04
-
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
+github : [gadroen](https://github.com/gadroen)
+telegram : @EwinGadroen
+//0x6f5c1bEB0Ae14D1422B4B3b874ac6D3d225f9940
 
 Ignore this!!!
 
 ```
-SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
-ProxyAdmin = '0x6a0baE5CF96d14e39FA9F5AdB4fadABb55B22E17'
-SWTRImplementation = '0xE4e93a474734E22A4f660EF1fE7aC3fc096E856c'
+SWTRProxy = '0x4c60E9c00C119AF7B043Db4C6DfdAED4a174b4e7'
+ProxyAdmin = '0x6Ac57d7DF299AC5D05f66C24F47A4aF1CEBB2Ca9'
+SWTRImplementation = '0x31fC89276b2748767c3966D02404a96fE5c9BDe8'
 ```
